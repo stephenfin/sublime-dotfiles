@@ -1,0 +1,34 @@
+{
+	"http_proxy": "http://proxy.ir.intel.com",
+	"https_proxy": "911",
+	"installed_packages":
+	[
+		"AAAPackageDev",
+		"Autotools",
+		"Colorsublime",
+		"CTags",
+		"Cucumber",
+		"DocBlockr",
+		"Enlightened Color Scheme",
+		"FileDiffs",
+		"Gherkin (Cucumber) Formatter",
+		"Haml",
+		"INI",
+		"Makefile Improved",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Monokai Extended",
+		"Oblivion Color Scheme",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pylint",
+		"Theme - Spacefunk",
+		"Theme - Spacegray",
+		"TodoReview",
+		"TOML",
+		"TrailingSpaces"
+	]
+}
